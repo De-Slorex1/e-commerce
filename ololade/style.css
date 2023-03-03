@@ -1,0 +1,48 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.overall-background {
+    margin: 0px;
+    padding: 0px;
+    width: 100%;
+    height: 100vh;
+    color: white;
+}
+.bg-1 {
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    background-image: url(images/front-view-young-male-preparing-hiking-holding-ticket.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: top;
+    background-attachment: scroll;
+    height: 250px;
+}
+.bg-2 {
+    margin: 0;
+    padding: 0;
+    background-image: url(images/full-shot-happy-people-posing-studio.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: scroll;
+    width: 100%;
+    height: 250px;
+}
+.bg-3 {
+    margin: 0;
+    padding: 0;
+    background-image: url(images/medium-shot-smiley-man-holding-baggage\ \(1\).jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: top;
+    background-attachment: fixed;
+    width: 100%;
+    height: 250px;
+}
+p {
+    background-clip: padding-box;
+    background-image: url(images/medium-shot-smiley-man-holding-baggage\ \(1\).jpg);
+}
